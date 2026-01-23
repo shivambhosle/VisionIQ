@@ -82,13 +82,13 @@ Real‑time working prototype
 🧑‍💻 Team VisionIQ
 Shlok Gawade • Shoumik Trivedi • Sahil Kanchan
 
-📸 Demo
-(Add screenshots / GIFs here after upload)
-
 🏁 Getting Started
 git clone <repo-link>
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
 Requires:
 
 Python 3.9+
