@@ -80,7 +80,7 @@ Practical industrial use case
 Real‑time working prototype
 
 🧑‍💻 Team VisionIQ
-Shlok Gawade • Shoumik Trivedi • Sahil Kanchan
+Shivam Bhosle • Shlok Gawade • Shoumik Trivedi • Sahil Kanchan
 
 🏁 Getting Started
 git clone <repo-link>
